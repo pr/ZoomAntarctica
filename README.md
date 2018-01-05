@@ -1,8 +1,6 @@
 # ZoomAntartica
 A Hololens app made to visualize Antarctic data for the Lamont-Doherty Earth Observatory.
 
----
-
 Unity | Visual Studio 2017
 --- | ---
 `2017.2.0f3` | `15.3.5` |
